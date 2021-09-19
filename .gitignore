@@ -447,4 +447,4 @@ cython_debug/
 # CodeStream plugin
 # https://plugins.jetbrains.com/plugin/12206-codestream
 
-# End of https://www.toptal.com/developers/gitignore/api/webstorm,clion,jetbrains,java,c++,python
+# End of https://www.toptal.com/developers/gitignore/api/webstorm,clion,jetbrains,java,c++,python!/.idea/
