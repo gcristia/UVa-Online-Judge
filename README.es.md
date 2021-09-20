@@ -18,6 +18,12 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 #### Volumen 2
 * ✓ [TEX Quotes][272] (`272`)
 
+#### Volume 3
+* ✓ [Pseudo-Random Numbers][350] (`350`)
+
+#### Volume 4
+* ✓ [Wetlands of Florida][469] (`469`)
+
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -28,4 +34,8 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 [100]: http://uva.onlinejudge.org/external/1/100.html
 [119]: http://uva.onlinejudge.org/external/1/119.html
 
-[272]: http://uva.onlinejudge.org/external/2/272.html 
+[272]: http://uva.onlinejudge.org/external/2/272.html
+
+[350]: http://uva.onlinejudge.org/external/3/350.html
+
+[469]: http://uva.onlinejudge.org/external/4/469.html 

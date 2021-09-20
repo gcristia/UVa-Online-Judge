@@ -17,6 +17,12 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 #### Volume 2
 * ✓ [TEX Quotes][272] (`272`)  
 
+#### Volume 3
+* ✓ [Pseudo-Random Numbers][350] (`350`)
+
+#### Volume 4
+* ✓ [Wetlands of Florida][469] (`469`)
+
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -28,3 +34,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 [119]: http://uva.onlinejudge.org/external/1/119.html 
 
 [272]: http://uva.onlinejudge.org/external/2/272.html 
+
+[350]: http://uva.onlinejudge.org/external/3/350.html 
+
+[469]: http://uva.onlinejudge.org/external/4/469.html 
