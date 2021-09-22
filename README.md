@@ -30,6 +30,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 #### Volume 6
 * ✓ [Secret Research][621] (`621`) 
 * ✓ [Blowing Fuses][661] (`661`) 
+* ✓ [Coin Change][674] (`674`)
 
 
 ## Expressions of Gratitude 🎁
@@ -52,4 +53,5 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 [573]: http://uva.onlinejudge.org/external/5/573.html 
 
 [621]: http://uva.onlinejudge.org/external/6/621.html 
-[661]: http://uva.onlinejudge.org/external/6/661.html 
+[661]: http://uva.onlinejudge.org/external/6/661.html
+[674]: http://uva.onlinejudge.org/external/6/674.html 
