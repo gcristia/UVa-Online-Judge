@@ -28,6 +28,9 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 * ✓ [Jill Rides Again][507] (`507`)
 * ✓ [The Snail][573] (`573`)
 
+#### Volume 6
+* ✓ [Secret Research][621] (`621`)
+
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -45,4 +48,6 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 [469]: http://uva.onlinejudge.org/external/4/469.html
 
 [507]: http://uva.onlinejudge.org/external/5/507.html 
-[573]: http://uva.onlinejudge.org/external/5/573.html 
+[573]: http://uva.onlinejudge.org/external/5/573.html
+
+[621]: http://uva.onlinejudge.org/external/6/621.html 
