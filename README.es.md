@@ -24,6 +24,10 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 #### Volume 4
 * ✓ [Wetlands of Florida][469] (`469`)
 
+#### Volume 5
+* ✓ [Jill Rides Again][507] (`507`)
+* ✓ [The Snail][573] (`573`)
+
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -38,4 +42,7 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 
 [350]: http://uva.onlinejudge.org/external/3/350.html
 
-[469]: http://uva.onlinejudge.org/external/4/469.html 
+[469]: http://uva.onlinejudge.org/external/4/469.html
+
+[507]: http://uva.onlinejudge.org/external/5/507.html 
+[573]: http://uva.onlinejudge.org/external/5/573.html 

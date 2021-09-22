@@ -23,6 +23,10 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 #### Volume 4
 * ✓ [Wetlands of Florida][469] (`469`)
 
+#### Volume 5
+* ✓ [Jill Rides Again][507] (`507`)
+* ✓ [The Snail][573] (`573`)
+
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -37,4 +41,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 
 [350]: http://uva.onlinejudge.org/external/3/350.html 
 
-[469]: http://uva.onlinejudge.org/external/4/469.html 
+[469]: http://uva.onlinejudge.org/external/4/469.html
+
+[507]: http://uva.onlinejudge.org/external/5/507.html
+[573]: http://uva.onlinejudge.org/external/5/573.html 
