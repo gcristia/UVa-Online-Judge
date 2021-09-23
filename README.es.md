@@ -33,6 +33,10 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 * ✓ [Blowing Fuses][661] (`661`)
 * ✓ [Coin Change][674] (`674`)
 
+#### Volume 7
+* ✓ [Division][725] (`725`)
+* ✓ [8 Queens Chess Problem][750] (`750`)
+
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -54,4 +58,7 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 
 [621]: http://uva.onlinejudge.org/external/6/621.html
 [661]: http://uva.onlinejudge.org/external/6/661.html 
-[674]: http://uva.onlinejudge.org/external/6/674.html 
+[674]: http://uva.onlinejudge.org/external/6/674.html
+
+[725]: http://uva.onlinejudge.org/external/7/725.html
+[750]: http://uva.onlinejudge.org/external/7/750.html 
