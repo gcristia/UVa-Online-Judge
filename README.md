@@ -40,7 +40,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
-⌨️ with ❤️by [gcristia](https://github.com/gcristia) 😊
+⌨️with ❤️by [gcristia](https://github.com/gcristia) 😊
 
 [1]: http://uva.onlinejudge.org
 [infoSE]: http://uva.onlinejudge.org/index.php?option=com_content&task=view&id=21

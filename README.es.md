@@ -40,7 +40,7 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
-⌨️ con ❤️por [gcristia](https://github.com/gcristia) 😊
+⌨️con ❤️por [gcristia](https://github.com/gcristia) 😊
 
 [1]: http://uva.onlinejudge.org
 [infoSE]: http://uva.onlinejudge.org/index.php?option=com_content&task=view&id=21
