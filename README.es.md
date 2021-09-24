@@ -37,6 +37,20 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 * ✓ [Division][725] (`725`)
 * ✓ [8 Queens Chess Problem][750] (`750`)
 
+#### Volume 11
+* ✓ [Celebrity jeopardy][1124] (`1124`)
+
+#### Volume 12
+* ✓ [MODEX][1230] (`1230`)
+
+#### Volume 100
+* ✓ [Cutting Sticks][10003] (`10003`)
+
+#### Volume 101
+* ✓ [SuperSale][10114] (`10114`)
+* ✓ [Request for Proposal][10130] (`10130`)
+* ✓ [Loansome Car Buyer][10141] (`10141`)
+
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -61,4 +75,14 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 [674]: http://uva.onlinejudge.org/external/6/674.html
 
 [725]: http://uva.onlinejudge.org/external/7/725.html
-[750]: http://uva.onlinejudge.org/external/7/750.html 
+[750]: http://uva.onlinejudge.org/external/7/750.html
+
+[1124]: http://uva.onlinejudge.org/external/11/1124.html
+
+[1230]: http://uva.onlinejudge.org/external/12/1230.html
+
+[10003]: http://uva.onlinejudge.org/external/100/10003.html
+
+[10114]: http://uva.onlinejudge.org/external/101/10114.html
+[10130]: http://uva.onlinejudge.org/external/101/10130.html
+[10141]: http://uva.onlinejudge.org/external/101/10141.html 
