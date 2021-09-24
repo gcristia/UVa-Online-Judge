@@ -36,6 +36,8 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 * ✓ [Division][725] (`725`) 
 * ✓ [8 Queens Chess Problem][750] (`750`) 
 
+#### Volume 11
+* ✓ [Celebrity jeopardy][1124] (`1124`)
 
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
@@ -62,3 +64,5 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 
 [725]: http://uva.onlinejudge.org/external/7/725.html 
 [750]: http://uva.onlinejudge.org/external/7/750.html 
+
+[1124]: http://uva.onlinejudge.org/external/11/1124.html 
