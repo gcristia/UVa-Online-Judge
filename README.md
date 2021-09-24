@@ -39,6 +39,9 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 #### Volume 11
 * ✓ [Celebrity jeopardy][1124] (`1124`)
 
+#### Volume 12
+* ✓ [Celebrity jeopardy][1124] (`1124`)
+
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
