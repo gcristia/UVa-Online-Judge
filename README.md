@@ -45,6 +45,11 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 #### Volume 100
 * ✓ [Cutting Sticks][10003] (`10003`)
 
+#### Volume 101
+* ✓ [SuperSale][10114] (`10114`)
+* ✓ [Request for Proposal][10130] (`10130`)
+* ✓ [Loansome Car Buyer][10141] (`10141`)
+
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -76,3 +81,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 [1230]: http://uva.onlinejudge.org/external/12/1230.html 
 
 [10003]: http://uva.onlinejudge.org/external/100/10003.html 
+
+[10114]: http://uva.onlinejudge.org/external/101/10114.html 
+[10130]: http://uva.onlinejudge.org/external/101/10130.html 
+[10141]: http://uva.onlinejudge.org/external/101/10141.html 
