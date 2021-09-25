@@ -25,8 +25,8 @@ double newton(){
 
 int main() {
 
-    //freopen("..\\main.in", "r", stdin);
-    //freopen("..\\main.out", "w", stdout);
+    // freopen("..\\main.in", "r", stdin);
+    // freopen("..\\main.out", "w", stdout);
     while (scanf("%d %d %d %d %d %d",&p,&q,&r,&s,&t,&u)!=EOF){
         if (f(0) * f(1) > 0){
             puts("No solution");

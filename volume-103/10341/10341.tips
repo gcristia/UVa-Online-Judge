@@ -4,7 +4,7 @@ The simplest is the Bisection method. It took ~32 ms to answer all the judge's i
 A more effective way is the Secant method. It took ~20 ms to answer all the judge's input.
 The most effective way is the Newton's method. It took ~12 ms to answer all the judge's input and it only requires at most 5 iterations to find the root.
 
-The easiest to implement is the Bisection method:
+The easiest to implement is the Bisection method :
 
 #include <stdio.h>
 #include <math.h>
