@@ -51,6 +51,11 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 * ✓ [Request for Proposal][10130] (`10130`)
 * ✓ [Loansome Car Buyer][10141] (`10141`)
 
+#### Volume 103
+* ✓ [Ecological Premium][10300] (`10300`)
+* ✓ [Zeros and Ones][10324] (`10324`)
+* ✓ [Solve It][10341] (`10341`)
+
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -86,3 +91,7 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 [10114]: http://uva.onlinejudge.org/external/101/10114.html
 [10130]: http://uva.onlinejudge.org/external/101/10130.html
 [10141]: http://uva.onlinejudge.org/external/101/10141.html 
+
+[10300]: http://uva.onlinejudge.org/external/103/10300.html 
+[10324]: http://uva.onlinejudge.org/external/103/10324.html 
+[10341]: http://uva.onlinejudge.org/external/103/10341.html 
