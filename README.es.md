@@ -1,4 +1,4 @@
-<img src="https://uhunt.onlinejudge.org/images/uva.png" alt="Markdown Monster icon" style="float: left; margin-right:10px;margin-top:15px" />
+<img src="https://uhunt.onlinejudge.org/images/uva.png" alt="UVa Online Judge" style="float: left; margin-right:10px;margin-top:15px" />
 
 # UVa-Online-Judge
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/gcristia/UVa-Online-Judge/blob/main/README.md)
