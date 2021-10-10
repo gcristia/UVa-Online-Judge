@@ -58,7 +58,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 #### Volume 12
 | Problem                          | Language      |
 | :---                             |   :----:      |
-| ✓ [MODEX][1230] (`1230`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [MODEX][1230] (`1230`)| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
 
 #### Volume 100
 | Problem                          | Language      |
