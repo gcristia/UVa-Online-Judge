@@ -10,13 +10,13 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 
 ### Problem Set Volumes
 
-#### Volumen 1
+#### Volume 1
 | Problem                          | Language      |
 | :---                             |   :----:      |
 | ✓ [The 3n + 1 problem][100] (`100`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ✓ [Greedy Gift Givers][100] (`119`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
-#### Volumen 2
+#### Volume 2
 | Problem                          | Language      |
 | :---                             |   :----:      |
 | ✓ [TEX Quotes][272] (`272`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
