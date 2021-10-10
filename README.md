@@ -99,3 +99,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 [10300]: http://uva.onlinejudge.org/external/103/10300.html
 [10324]: http://uva.onlinejudge.org/external/103/10324.html
 [10341]: http://uva.onlinejudge.org/external/103/10341.html 
+
+[10424]: http://uva.onlinejudge.org/external/104/10424.html 
+[10491]: http://uva.onlinejudge.org/external/104/10491.html 
+[10496]: http://uva.onlinejudge.org/external/104/10496.html 
