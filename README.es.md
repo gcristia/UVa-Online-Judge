@@ -56,6 +56,11 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 * ✓ [Zeros and Ones][10324] (`10324`)
 * ✓ [Solve It][10341] (`10341`)
 
+#### Volume 104
+* ✓ [Love Calculator][10424] (`10424`)
+* ✓ [Cows and Cars][10491] (`10491`)
+* ✓ [Collecting Beepers][10496] (`10496`)
+
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
@@ -94,4 +99,8 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 
 [10300]: http://uva.onlinejudge.org/external/103/10300.html 
 [10324]: http://uva.onlinejudge.org/external/103/10324.html 
-[10341]: http://uva.onlinejudge.org/external/103/10341.html 
+[10341]: http://uva.onlinejudge.org/external/103/10341.html
+
+[10424]: http://uva.onlinejudge.org/external/104/10424.html
+[10491]: http://uva.onlinejudge.org/external/104/10491.html
+[10496]: http://uva.onlinejudge.org/external/104/10496.html 
