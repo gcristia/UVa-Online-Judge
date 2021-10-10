@@ -12,54 +12,81 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 ### Volúmenes de la Serie de Problemas
 
 #### Volumen 1
-* ✓ [The 3n + 1 problem][100] (`100`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Greedy Gift Givers][100] (`119`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [The 3n + 1 problem][100] (`100`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Greedy Gift Givers][100] (`119`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volumen 2
-* ✓ [TEX Quotes][272] (`272`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [TEX Quotes][272] (`272`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 3
-* ✓ [Pseudo-Random Numbers][350] (`350`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Pseudo-Random Numbers][350] (`350`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 4
-* ✓ [Wetlands of Florida][469] (`469`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Wetlands of Florida][469] (`469`) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 5
-* ✓ [Jill Rides Again][507] (`507`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [The Snail][573] (`573`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Jill Rides Again][507] (`507`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [The Snail][573] (`573`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 6
-* ✓ [Secret Research][621] (`621`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Blowing Fuses][661] (`661`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Coin Change][674] (`674`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Secret Research][621] (`621`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Blowing Fuses][661] (`661`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Coin Change][674] (`674`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 7
-* ✓ [Division][725] (`725`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [8 Queens Chess Problem][750] (`750`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Division][725] (`725`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [8 Queens Chess Problem][750] (`750`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 11
-* ✓ [Celebrity jeopardy][1124] (`1124`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Celebrity jeopardy][1124] (`1124`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 12
-* ✓ [MODEX][1230] (`1230`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [MODEX][1230] (`1230`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 100
-* ✓ [Cutting Sticks][10003] (`10003`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Cutting Sticks][10003] (`10003`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 101
-* ✓ [SuperSale][10114] (`10114`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Request for Proposal][10130] (`10130`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Loansome Car Buyer][10141] (`10141`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [SuperSale][10114] (`10114`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Request for Proposal][10130] (`10130`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Loansome Car Buyer][10141] (`10141`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 103
-* ✓ [Ecological Premium][10300] (`10300`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Zeros and Ones][10324] (`10324`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Solve It][10341] (`10341`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Ecological Premium][10300] (`10300`)|![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Zeros and Ones][10324] (`10324`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Solve It][10341] (`10341`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 104
-* ✓ [Love Calculator][10424] (`10424`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Cows and Cars][10491] (`10491`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-* ✓ [Collecting Beepers][10496] (`10496`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Love Calculator][10424] (`10424`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Cows and Cars][10491] (`10491`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Collecting Beepers][10496] (`10496`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
 
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)

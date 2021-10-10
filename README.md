@@ -24,7 +24,7 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 #### Volume 3
 | Problem                          | Language      |
 | :---                             |   :----:      |
-| ✓ [Pseudo-Random Numbers][350]| (`350`) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Pseudo-Random Numbers][350] (`350`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
 #### Volume 4
 | Problem                          | Language      |
