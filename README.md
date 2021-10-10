@@ -55,6 +55,11 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 * ✓ [Zeros and Ones][10324] (`10324`)
 * ✓ [Solve It][10341] (`10341`)
 
+#### Volume 104
+* ✓ [Love Calculator][10424] (`10424`)
+* ✓ [Cows and Cars][10491] (`10491`)
+* ✓ [Collecting Beepers][10496] (`10496`)
+
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
 ---
