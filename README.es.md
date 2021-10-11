@@ -87,8 +87,8 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 | ✓ [Cows and Cars][10491] (`10491`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ✓ [Collecting Beepers][10496] (`10496`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
-#### Volume 105
-| Problem                          | Language      |
+#### Volumem 105
+| Problema                          | Lenguaje      |
 | :---                             |   :----:      |
 | ✓ [Waking up brain][10507] (`10507`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ✓ [Combination Lock][10550] (`10550`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
