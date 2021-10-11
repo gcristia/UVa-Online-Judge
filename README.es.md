@@ -87,6 +87,12 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 | ✓ [Cows and Cars][10491] (`10491`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ✓ [Collecting Beepers][10496] (`10496`) |![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
+#### Volume 105
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Waking up brain][10507] (`10507`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [Combination Lock][10550] (`10550`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
 
 ## Expresiones de gratitud 🎁
 * Estoy muy agradecido por todo lo que aprendí en el libro [Competitive Programming](https://sites.google.com/site/stevenhalim/) escrito por [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
@@ -130,4 +136,7 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 
 [10424]: http://uva.onlinejudge.org/external/104/10424.html
 [10491]: http://uva.onlinejudge.org/external/104/10491.html
-[10496]: http://uva.onlinejudge.org/external/104/10496.html 
+[10496]: http://uva.onlinejudge.org/external/104/10496.html
+
+[10507]: http://uva.onlinejudge.org/external/105/10507.html
+[10550]: http://uva.onlinejudge.org/external/105/10550.html 
