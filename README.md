@@ -92,6 +92,13 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 | ✓ [Waking up brain][10507] (`10507`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ✓ [Combination Lock][10550] (`10550`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
+#### Volume 109
+| Problem                          | Language      |
+| :---                             |   :----:      |
+| ✓ [Prerequisites?][10919] (`10919`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [How do you add?][10943] (`10943`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+| ✓ [The Swallowing Ground][10963] (`10963`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
+
 
 ## Expressions of Gratitude 🎁
 * I am very grateful for everything I learned in the book [Competitive Programming](https://sites.google.com/site/stevenhalim/) written by [Steven Halim](https://www.comp.nus.edu.sg/~stevenha/)
@@ -138,4 +145,8 @@ My Solution code for problems on [UVA](https://onlinejudge.org/), using C++,Java
 [10496]: http://uva.onlinejudge.org/external/104/10496.html 
 
 [10507]: http://uva.onlinejudge.org/external/105/10507.html 
-[10550]: http://uva.onlinejudge.org/external/105/10550.html 
+[10550]: http://uva.onlinejudge.org/external/105/10550.html
+
+[10919]: http://uva.onlinejudge.org/external/109/10919.html
+[10943]: http://uva.onlinejudge.org/external/109/10943.html
+[10963]: http://uva.onlinejudge.org/external/109/10963.html
