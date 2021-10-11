@@ -93,7 +93,7 @@ Mis soluciones a los problemas en [UVA](https://onlinejudge.org/), usando C++,Ja
 | ✓ [Waking up brain][10507] (`10507`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ✓ [Combination Lock][10550] (`10550`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 
-#### Volumem 109
+#### Volumen 109
 | Problema                          | Lenguaje      |
 | :---                             |   :----:      |
 | ✓ [Prerequisites?][10919] (`10919`)| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
