@@ -6,7 +6,7 @@
 
 My Solution code for problems on [UVA](https://onlinejudge.org/), using C++, Java and Python
 
-<h4>UVA Profile:  <a href="https://uhunt.onlinejudge.org/id/1210764">Uva Profile</a></h4> 
+<h4>UVA Profile :  <a href="https://uhunt.onlinejudge.org/id/1210764">Uva Profile</a></h4> 
 
 ### Problem Set Volumes
 
